@@ -50,6 +50,6 @@
                 <pd/>
             </plentry>
             </parml> </section>
-        <section id="return_values" conkeyref="setSubscribeAudioBlacklist/return_values"> </section>
+        <section id="return_values" conkeyref="setSubscribeAudioBlacklist/return_values" props="native electron unity rn"> </section>
     </refbody>
 </reference>

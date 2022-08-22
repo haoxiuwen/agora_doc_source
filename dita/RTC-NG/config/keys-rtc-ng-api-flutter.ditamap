@@ -2266,7 +2266,7 @@
                     </keywords>
                 </topicmeta>
             </keydef>
-            <keydef keys="enableDualStreamMode2" href="../API/api_irtcengine_enabledualstreammode2.dita" props="hide">
+            <keydef keys="enableDualStreamMode2" href="../API/api_irtcengine_enabledualstreammode2.dita">
                 <topicmeta>
                     <keywords>
                         <keyword>enableDualStreamMode [2/3]</keyword>
@@ -3512,7 +3512,6 @@
                 </topicmeta>
             </keydef>
         </topichead>
-    </topichead>
     <topichead navtitle="Callbacks">
         <topichead navtitle="核心事件">
             <keydef keys="onUserAccountUpdated" href="../API/callback_irtcengineeventhandler_onuseraccountupdated.dita" props="hide">
